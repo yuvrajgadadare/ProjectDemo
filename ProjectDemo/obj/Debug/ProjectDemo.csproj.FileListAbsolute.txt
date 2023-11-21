@@ -1,0 +1,7 @@
+C:\pooja sutar\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe.config
+C:\pooja sutar\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.exe
+C:\pooja sutar\ProjectDemo\ProjectDemo\bin\Debug\ProjectDemo.pdb
+C:\pooja sutar\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.csproj.AssemblyReference.cache
+C:\pooja sutar\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.csproj.CoreCompileInputs.cache
+C:\pooja sutar\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.exe
+C:\pooja sutar\ProjectDemo\ProjectDemo\obj\Debug\ProjectDemo.pdb
