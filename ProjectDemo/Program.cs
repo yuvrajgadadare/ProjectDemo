@@ -11,9 +11,10 @@ namespace ProjectDemo
         public void Add()
         {
             int a = 10, b = 20, c;
-            c = a + b;
+            c = a + b
             Console.WriteLine("Add="+c);
         }
+
         static void Main()
         {
             Program p = new Program();
